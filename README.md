@@ -1,7 +1,7 @@
 # Professional-Materials
 Showcase previous projects to show my growth as a devolper
 
-#requirements
+# Requirements
 Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
 
 Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
